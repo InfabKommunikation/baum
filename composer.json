@@ -19,8 +19,7 @@
       "name": "Albin Nilsson",
       "email": "albin@infab.io",
       "homepage": "http://infab.nu"
-    },
-
+    }
   ],
   "require": {
     "php": ">=5.5.9",
